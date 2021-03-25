@@ -1,0 +1,13 @@
+D:\C#\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csprojAssemblyReference.cache
+D:\C#\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfoInputs.cache
+D:\C#\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.AssemblyInfo.cs
+D:\C#\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.csproj.CoreCompileInputs.cache
+D:\C#\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.exe
+D:\C#\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.deps.json
+D:\C#\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.json
+D:\C#\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.runtimeconfig.dev.json
+D:\C#\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.dll
+D:\C#\StringMethods\StringMethods\bin\Debug\netcoreapp3.1\StringMethods.pdb
+D:\C#\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.dll
+D:\C#\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.pdb
+D:\C#\StringMethods\StringMethods\obj\Debug\netcoreapp3.1\StringMethods.genruntimeconfig.cache
