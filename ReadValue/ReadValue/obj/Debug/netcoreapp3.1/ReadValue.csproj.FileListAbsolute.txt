@@ -1,0 +1,13 @@
+D:\C#\ReadValue\ReadValue\obj\Debug\netcoreapp3.1\ReadValue.csprojAssemblyReference.cache
+D:\C#\ReadValue\ReadValue\obj\Debug\netcoreapp3.1\ReadValue.AssemblyInfoInputs.cache
+D:\C#\ReadValue\ReadValue\obj\Debug\netcoreapp3.1\ReadValue.AssemblyInfo.cs
+D:\C#\ReadValue\ReadValue\obj\Debug\netcoreapp3.1\ReadValue.csproj.CoreCompileInputs.cache
+D:\C#\ReadValue\ReadValue\bin\Debug\netcoreapp3.1\ReadValue.exe
+D:\C#\ReadValue\ReadValue\bin\Debug\netcoreapp3.1\ReadValue.deps.json
+D:\C#\ReadValue\ReadValue\bin\Debug\netcoreapp3.1\ReadValue.runtimeconfig.json
+D:\C#\ReadValue\ReadValue\bin\Debug\netcoreapp3.1\ReadValue.runtimeconfig.dev.json
+D:\C#\ReadValue\ReadValue\bin\Debug\netcoreapp3.1\ReadValue.dll
+D:\C#\ReadValue\ReadValue\bin\Debug\netcoreapp3.1\ReadValue.pdb
+D:\C#\ReadValue\ReadValue\obj\Debug\netcoreapp3.1\ReadValue.dll
+D:\C#\ReadValue\ReadValue\obj\Debug\netcoreapp3.1\ReadValue.pdb
+D:\C#\ReadValue\ReadValue\obj\Debug\netcoreapp3.1\ReadValue.genruntimeconfig.cache

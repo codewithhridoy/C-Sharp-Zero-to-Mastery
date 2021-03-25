@@ -1,0 +1,13 @@
+D:\C#\FormattedString\FormattedString\bin\Debug\netcoreapp3.1\FormattedString.exe
+D:\C#\FormattedString\FormattedString\bin\Debug\netcoreapp3.1\FormattedString.deps.json
+D:\C#\FormattedString\FormattedString\bin\Debug\netcoreapp3.1\FormattedString.runtimeconfig.json
+D:\C#\FormattedString\FormattedString\bin\Debug\netcoreapp3.1\FormattedString.runtimeconfig.dev.json
+D:\C#\FormattedString\FormattedString\bin\Debug\netcoreapp3.1\FormattedString.dll
+D:\C#\FormattedString\FormattedString\bin\Debug\netcoreapp3.1\FormattedString.pdb
+D:\C#\FormattedString\FormattedString\obj\Debug\netcoreapp3.1\FormattedString.csprojAssemblyReference.cache
+D:\C#\FormattedString\FormattedString\obj\Debug\netcoreapp3.1\FormattedString.AssemblyInfoInputs.cache
+D:\C#\FormattedString\FormattedString\obj\Debug\netcoreapp3.1\FormattedString.AssemblyInfo.cs
+D:\C#\FormattedString\FormattedString\obj\Debug\netcoreapp3.1\FormattedString.csproj.CoreCompileInputs.cache
+D:\C#\FormattedString\FormattedString\obj\Debug\netcoreapp3.1\FormattedString.dll
+D:\C#\FormattedString\FormattedString\obj\Debug\netcoreapp3.1\FormattedString.pdb
+D:\C#\FormattedString\FormattedString\obj\Debug\netcoreapp3.1\FormattedString.genruntimeconfig.cache
