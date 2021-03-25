@@ -1,0 +1,13 @@
+D:\C#\ConditionalLogic\ConditionalLogic\bin\Debug\netcoreapp3.1\ConditionalLogic.exe
+D:\C#\ConditionalLogic\ConditionalLogic\bin\Debug\netcoreapp3.1\ConditionalLogic.deps.json
+D:\C#\ConditionalLogic\ConditionalLogic\bin\Debug\netcoreapp3.1\ConditionalLogic.runtimeconfig.json
+D:\C#\ConditionalLogic\ConditionalLogic\bin\Debug\netcoreapp3.1\ConditionalLogic.runtimeconfig.dev.json
+D:\C#\ConditionalLogic\ConditionalLogic\bin\Debug\netcoreapp3.1\ConditionalLogic.dll
+D:\C#\ConditionalLogic\ConditionalLogic\bin\Debug\netcoreapp3.1\ConditionalLogic.pdb
+D:\C#\ConditionalLogic\ConditionalLogic\obj\Debug\netcoreapp3.1\ConditionalLogic.csprojAssemblyReference.cache
+D:\C#\ConditionalLogic\ConditionalLogic\obj\Debug\netcoreapp3.1\ConditionalLogic.AssemblyInfoInputs.cache
+D:\C#\ConditionalLogic\ConditionalLogic\obj\Debug\netcoreapp3.1\ConditionalLogic.AssemblyInfo.cs
+D:\C#\ConditionalLogic\ConditionalLogic\obj\Debug\netcoreapp3.1\ConditionalLogic.csproj.CoreCompileInputs.cache
+D:\C#\ConditionalLogic\ConditionalLogic\obj\Debug\netcoreapp3.1\ConditionalLogic.dll
+D:\C#\ConditionalLogic\ConditionalLogic\obj\Debug\netcoreapp3.1\ConditionalLogic.pdb
+D:\C#\ConditionalLogic\ConditionalLogic\obj\Debug\netcoreapp3.1\ConditionalLogic.genruntimeconfig.cache
