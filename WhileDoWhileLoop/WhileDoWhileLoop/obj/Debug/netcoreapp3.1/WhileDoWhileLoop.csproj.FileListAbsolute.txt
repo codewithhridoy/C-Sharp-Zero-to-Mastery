@@ -1,0 +1,13 @@
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\bin\Debug\netcoreapp3.1\WhileDoWhileLoop.exe
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\bin\Debug\netcoreapp3.1\WhileDoWhileLoop.deps.json
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\bin\Debug\netcoreapp3.1\WhileDoWhileLoop.runtimeconfig.json
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\bin\Debug\netcoreapp3.1\WhileDoWhileLoop.runtimeconfig.dev.json
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\bin\Debug\netcoreapp3.1\WhileDoWhileLoop.dll
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\bin\Debug\netcoreapp3.1\WhileDoWhileLoop.pdb
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\obj\Debug\netcoreapp3.1\WhileDoWhileLoop.csprojAssemblyReference.cache
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\obj\Debug\netcoreapp3.1\WhileDoWhileLoop.AssemblyInfoInputs.cache
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\obj\Debug\netcoreapp3.1\WhileDoWhileLoop.AssemblyInfo.cs
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\obj\Debug\netcoreapp3.1\WhileDoWhileLoop.csproj.CoreCompileInputs.cache
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\obj\Debug\netcoreapp3.1\WhileDoWhileLoop.dll
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\obj\Debug\netcoreapp3.1\WhileDoWhileLoop.pdb
+D:\C#\WhileDoWhileLoop\WhileDoWhileLoop\obj\Debug\netcoreapp3.1\WhileDoWhileLoop.genruntimeconfig.cache
